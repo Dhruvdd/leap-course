@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output files
+*.pptx
+*.pdf
+
+# API keys or configs
+*.env
+config.json
